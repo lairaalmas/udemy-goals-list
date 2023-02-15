@@ -1,9 +1,13 @@
-# Goal List
+# Goals List
 
-Project developed during the [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25597304#learning-tools) course from Udemy.
+Guided project developed during the course [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) from Udemy.
+
+## Course section:
+
+- 6: Styling react components
 
 ## Technologies
 
 - Reactjs
-  - [Styled components](https://styled-components.com/)
-  - CSS Modules
+- [Styled components](https://styled-components.com/)
+- CSS Modules
